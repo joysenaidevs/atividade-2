@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.exe
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.deps.json
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.runtimeconfig.json
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.dll
+C:\Users\nilma\Desktop\atividade-2\bin\Debug\netcoreapp3.1\atividade-2.pdb
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.AssemblyInfo.cs
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.dll
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.pdb
+C:\Users\nilma\Desktop\atividade-2\obj\Debug\netcoreapp3.1\atividade-2.genruntimeconfig.cache
